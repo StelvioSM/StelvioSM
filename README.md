@@ -19,7 +19,9 @@ pelo mundo dos hackers e de forma autônoma comecei a testar os conhecimentos na
 <img src="https://img.shields.io/badge/html5%20-FF7F50?.svg?&style=for-the-badge&logo=html5&logoColor=blank">
 <img src="https://img.shields.io/badge/mysql-%231877F2?.svg?&style=for-the-badge&logo=mysql&logoColor=blank">
 <img src="https://img.shields.io/badge/spring%20-00FF7F?.svg?&style=for-the-badge&logo=spring&logoColor=blank">
+<img src="https://img.shields.io/badge/css%20-4B0082?.svg?&style=for-the-badge&logo=css&logoColor=blank">
 <img src="https://img.shields.io/badge/python%20-B0E0E6?.svg?&style=for-the-badge&logo=python&logoColor=blank">
+
 
 <p><img align="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=stelviosm&show_icons=true&locale=en&layout=compact" alt="stelviosm" /></p>  
   
