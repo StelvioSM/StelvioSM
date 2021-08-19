@@ -14,6 +14,9 @@ pelo mundo dos hackers e de forma autônoma comecei a testar os conhecimentos na
 <a href="https://www.instagram.com/silvio.smith/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.facebook.com/stelviojosimar.maria/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 
+  
+   ![Snake animation](https://github.com/StelvioSM/StelvioSM/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align="left">Linguagens:</h3>
 <div><img src="https://img.shields.io/badge/java-999910?.svg?&style=for-the-badge&logo=java&logoColor=blank">
@@ -34,4 +37,3 @@ pelo mundo dos hackers e de forma autônoma comecei a testar os conhecimentos na
 <p align="center">
 Ate a Proxima !.😉
 </p>
-![Snake animation](https://github.com/StelvioSM/StelvioSM/blob/output/github-contribution-grid-snake.svg)
