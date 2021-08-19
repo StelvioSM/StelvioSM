@@ -5,7 +5,7 @@
 <h5 align="center"><img src="https://media.giphy.com/media/DIbzujHh2PCbm/giphy.gif" width=248px height=140px></h5> 
 pelo mundo dos hackers e de forma autônoma comecei a testar os conhecimentos na área ate que meu tio me apresentou a Generation hoje estou me formado como Desenvolvedor Full stacker Java júnior com esteroide ! Apresento-lhes meu GitHub, com todo o registro dos meus projetos, atividades, erros e acertos, mas, principalmente meus aprendizados no decorrer do bootcamp da linguagem Java e diversas outras.💖
 <h3 align="left">Atualmente...</h3>
-<p>• Estou Sempre em Busca de conhecimento sobre</p>
+<p>• Estou Sempre em Busca de conhecimento</p>
 <p>• Colaboro no projeto Alimentizze</p>
 
 <h3 align="left">Conecte comigo:</h3> 
