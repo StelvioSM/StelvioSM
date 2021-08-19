@@ -35,7 +35,7 @@ Ate a Proxima !.😉
 </p>
   
   
+ <p ![Snake animation](https://github.com/StelvioSM/StelvioSM/blob/output/github-contribution-grid-snake.svg) /></p>
   
   
-  
-<p ![Snake animation](https://github.com/StelvioSM/StelvioSM/blob/output/github-contribution-grid-snake.svg) </p>
+
