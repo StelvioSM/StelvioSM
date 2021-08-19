@@ -32,6 +32,10 @@ pelo mundo dos hackers e de forma autônoma comecei a testar os conhecimentos na
    <img alingn="center" src="https://profile-counter.glitch.me/StelvioSM/count.svg" /></p>
 <p align="center">
 Ate a Proxima !.😉
-  
-  ![Snake animation](https://github.com/StelvioSM/StelvioSM/blob/output/github-contribution-grid-snake.svg)
 </p>
+  
+  
+  
+  
+  
+<p ![Snake animation](https://github.com/StelvioSM/StelvioSM/blob/output/github-contribution-grid-snake.svg) </p>
